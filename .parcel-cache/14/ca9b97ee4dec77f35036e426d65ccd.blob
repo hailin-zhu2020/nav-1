@@ -22,7 +22,7 @@ ol {
 body {
     min-width: 100vw;
     min-height: 100vh;
-    background: url(./images/background.webp) no-repeat;
+    background: url(dcd2f032262e310b7bdae32b50130f9e) no-repeat;
     background-size: cover;
     padding: 1px;
 }

@@ -22,7 +22,7 @@ ol {
 body {
     min-width: 100vw;
     min-height: 100vh;
-    background: url(./images/background.webp) no-repeat;
+    background: url(background.HASH_REF_2b510e8297eb367267c8c63af20f9114.webp) no-repeat;
     background-size: cover;
     padding: 1px;
 }
@@ -181,3 +181,4 @@ img {
     justify-content: center;
     align-items: center;
 }
+/*# sourceMappingURL=index.HASH_REF_f0918a547ace1733ebc251b0de60a1d7.css.map */

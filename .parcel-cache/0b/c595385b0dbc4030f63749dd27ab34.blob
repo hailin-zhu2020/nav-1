@@ -6,8 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
     <title>ABC导航</title>
-    <link rel="stylesheet" href="style.css">
-    <style type="text/css">
+    <link rel="stylesheet" href="5825085afe161482f4540426b0250d06">
+    <style data-parcel-key="2b6526fb42f9d0134b5d324086fee47b">
         .icon {
             width: 1em;
             height: 1em;
@@ -19,15 +19,15 @@
 </head>
 
 <body>
-    <header class='globalHeader'>
-        <form class='searchForm' action="https://www.baidu.com/s">
-            <input name='wd' type=" text">
+    <header class="globalHeader">
+        <form class="searchForm" action="https://www.baidu.com/s">
+            <input name="wd" type=" text">
             <button type="submit ">搜索</button>
         </form>
     </header>
     <main class="globalMain ">
         <ul class="siteList ">
-            <li class='last'>
+            <li class="last">
                 <div class="addButton ">
                     <div class="icon-wrapper ">
                         <svg class="icon ">
@@ -39,9 +39,9 @@
             </li>
         </ul>
     </main>
-    <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <script src="//at.alicdn.com/t/font_2732916_iecsm9ze3m.js "></script>
-    <script src="main.js "></script>
+    <script src="278700badb54fb306cb49a95f21c3ff5"></script>
+    <script src="c2da182498f704ac30e9676d44f1f42b"></script>
+    <script src="56fb5e88928d441f2b571086b7704a6b"></script>
 </body>
 
 

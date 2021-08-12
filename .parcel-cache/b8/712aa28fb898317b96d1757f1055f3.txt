@@ -1,13 +1,15 @@
-12
-27D:\Code\nav-1\src\style.css132730812402185655 0
-18D:\Code\nav-1\dist132730830995606051 1
-17D:\Code\nav-1\src132729810680925668 1
-24D:\Code\nav-1\src\images132729810680925668 1
-29D:\Code\nav-1\dist\index.html132730830995082427 0
-28D:\Code\nav-1\src\index.html132730730704812092 0
-25D:\Code\nav-1\src\main.js132730817923796172 0
-37D:\Code\nav-1\src\images\bilibili.jpg132729810151056100 0
-40D:\Code\nav-1\dist\index.7db9921d.js.map132730830995543951 0
-36D:\Code\nav-1\dist\index.7db9921d.js132730830995200248 0
-37D:\Code\nav-1\dist\index.e1732aea.css132730830995183276 0
-41D:\Code\nav-1\dist\index.e1732aea.css.map132730830995519598 0
+14
+40D:\Code\nav-1\src\images\background.webp132732294189680432 0
+27D:\Code\nav-1\src\style.css132732294827554049 0
+18D:\Code\nav-1\dist132732308750932824 1
+17D:\Code\nav-1\src132732286672502335 1
+25D:\Code\nav-1\src\main.js132730854162788360 0
+28D:\Code\nav-1\src\.gitignore132732305176529977 0
+24D:\Code\nav-1\src\images132732294587786796 1
+29D:\Code\nav-1\dist\index.html132732308750834336 0
+40D:\Code\nav-1\dist\index.62908dd9.js.map132732308750894164 0
+28D:\Code\nav-1\src\index.html132732306905295417 0
+43D:\Code\nav-1\dist\background.929a1025.webp132732308745656176 0
+37D:\Code\nav-1\dist\index.5b630d6a.css132732308750802186 0
+41D:\Code\nav-1\dist\index.5b630d6a.css.map132732308750884195 0
+36D:\Code\nav-1\dist\index.62908dd9.js132732308750802186 0
